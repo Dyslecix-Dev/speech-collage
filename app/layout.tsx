@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SPCH 101 Collage",
-  description: "SPCH 101 Collage",
+  title: "SPCH 100 Collage",
+  description: "SPCH 100 Collage",
 };
 
 export default function RootLayout({
