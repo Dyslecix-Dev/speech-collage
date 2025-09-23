@@ -12,129 +12,129 @@ export default function Home() {
         {/* FATHER & HUSBAND */}
         <Card
           title="Family"
-          description="This one's real blocky" // TODO
+          description="TODO" // TODO
           imgSrc="/family.png"
         />
 
         <Card
           title="Graduation"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/graduation.jpg"
         />
 
         {/* SON */}
         <Card
           title="Parents"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/parents.png"
         />
 
         {/* GRANDSON */}
         <Card
           title="Lola"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/lola.png"
         />
 
         {/* FRIENDS */}
         <Card
           title="High School Friends"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/high-school-friends.png"
         />
 
         <Card
           title="UCI Friends"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/other-friends.png"
         />
 
         <Card
           title="Citrus College Friends"
-          description="We can even do TALL buildings" // TODO
+          description="TODO" // TODO
           imgSrc="/college-friends.png"
         />
 
         {/* ARTIST */}
         <Card
           title="Piano"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/piano.png"
         />
 
         <Card
           title="Drawing"
-          description="You like wavy buildings?" // TODO
+          description="TODO" // TODO
           imgSrc="/drawing.png"
         />
 
         <Card
           title="Musicals"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/theater.png"
         />
 
         {/* HIKER */}
         <Card
           title="Hiking"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/hike.png"
         />
 
         {/* SOFTWARE DEVELOPER */}
         <Card
           title="Software Development"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/software-development.jpg"
         />
 
         {/* TRAVELER */}
         <Card
           title="Sky Diving"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/sky-diving.png"
         />
 
         <Card
           title="New York"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/new-york.png"
         />
 
         <Card
           title="Alaska"
-          description="We make pretty buildings" // TODO
+          description="TODO" // TODO
           imgSrc="/alaska.png"
         />
 
         <Card
           title="Museums"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/pictures.png"
         />
 
         <Card
           title="Warner Bros. Studios"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/warner-bros.png"
         />
 
         {/* NERD */}
         <Card
           title="Anime"
-          description="This ones pretty nice" // TODO
+          description="TODO" // TODO
           imgSrc="/anime.png"
         />
 
         <Card
           title="Science"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/science.png"
         />
 
         <Card
           title="Silly Picture"
-          description="That is all :)" // TODO
+          description="TODO" // TODO
           imgSrc="/silly.png"
         />
       </div>
