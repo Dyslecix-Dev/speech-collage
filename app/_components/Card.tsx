@@ -4,7 +4,7 @@ export default function Card({ imgSrc, title, description }: { imgSrc: string; t
   return (
     <motion.div whileHover="hover" className="w-full h-[300px] relative">
       <div className="h-1/2 p-6 flex flex-col justify-center bg-black">
-        <p className="text-sm font-light text-slate-300">{description}</p>
+        <p className="text-xl text-center font-light text-slate-300">{description}</p>
       </div>
 
       <motion.div
